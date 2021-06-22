@@ -1,0 +1,23 @@
+{
+  "name": "myfirstlibrarynpm",
+  "version": "1.0.0",
+  "description": "Modulo node js de introduccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uahm93/myFirstLibraryNpm.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs"
+  ],
+  "author": "Ulises H. Mendoza <uahm93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uahm93/myFirstLibraryNpm/issues"
+  },
+  "homepage": "https://github.com/uahm93/myFirstLibraryNpm#readme"
+}
